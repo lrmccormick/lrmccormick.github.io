@@ -1,2 +1,2 @@
 # lrmccormick.github.io
-Website
+Practice website
