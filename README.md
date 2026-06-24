@@ -1,2 +1,0 @@
-# lrmccormick.github.io
-Website
